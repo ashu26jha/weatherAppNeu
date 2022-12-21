@@ -1,6 +1,2 @@
-# neutralinojs-zero
-An empty Neutralinojs app, extend as you wish
-
-```
-neu create myapp --template neutralinojs/neutralinojs-zero
-```
+# Weather App for desktops
+Made with NeutralinoJS. A light weight desktop app
